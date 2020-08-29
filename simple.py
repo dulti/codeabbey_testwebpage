@@ -5,4 +5,4 @@ import random
 print "Content-Type: text/plain"
 print
 
-print "Random value is " + str(random.randint(7, 61881) * 1616);
+print "Random value is " + str(random.randint(10, 50000) * 1616);
